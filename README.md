@@ -1,6 +1,13 @@
 # 2021-1-Algorithm-Study
 2021년 1학기 알고리즘 스터디 **그룹2 repository**입니다.
 
+## 구성원
+- conqrea
+- ayoung0430
+- brong
+- ljw83191
+- kir3i
+
 ## Git, Github는 어떻게 쓰나요?
 
 git은 형상관리 시스템으로 개발자라면 누구나 쓰게 됩니다. 이번 기회에 익숙해지면 좋을거에요!
